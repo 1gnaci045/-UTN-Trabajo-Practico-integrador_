@@ -1,0 +1,142 @@
+nombre,poblacion,superficie,continente
+Estados Unidos,339996563,9833520,América del Norte
+Canadá,38781291,9984670,América del Norte
+México,128455567,1964375,América del Norte
+Antigua y Barbuda,94298,442,América del Norte
+Bahamas,412623,13943,América del Norte
+Barbados,281995,430,América del Norte
+Belice,410825,22966,América del Norte
+Costa Rica,5212173,51100,América del Norte
+Cuba,11194449,109884,América del Norte
+Dominica,73040,751,América del Norte
+El Salvador,6364943,21041,América del Norte
+Granada,126183,344,América del Norte
+Guatemala,18092026,108889,América del Norte
+Haití,11724763,27750,América del Norte
+Honduras,10593798,112492,América del Norte
+Jamaica,2825544,10991,América del Norte
+Nicaragua,7046310,130373,América del Norte
+Panamá,4468087,75417,América del Norte
+República Dominicana,11332972,48671,América del Norte
+San Cristóbal y Nieves,47755,261,América del Norte
+San Vicente y las Granadinas,103698,389,América del Norte
+Santa Lucía,180251,616,América del Norte
+Trinidad y Tobago,1534937,5131,América del Norte
+Argentina,45773884,2780400,América del Sur
+Bolivia,12388571,1098581,América del Sur
+Brasil,216422446,8515767,América del Sur
+Chile,19629590,756102,América del Sur
+Colombia,52085168,1141748,América del Sur
+Ecuador,18190484,283561,América del Sur
+Guyana,813834,214969,América del Sur
+Paraguay,6861583,406752,América del Sur
+Perú,34352720,1285216,América del Sur
+Surinam,623236,163820,América del Sur
+Uruguay,3423108,176215,América del Sur
+Venezuela,28838499,916445,América del Sur
+Alemania,83294633,357022,Europa
+Albania,2832439,28748,Europa
+Andorra,80088,468,Europa
+Austria,8958960,83871,Europa
+Bélgica,11686140,30528,Europa
+Bielorrusia,9498238,207600,Europa
+Bosnia y Herzegovina,3210847,51209,Europa
+Bulgaria,6687717,110879,Europa
+Chipre,1260138,9251,Europa
+Ciudad del Vaticano,518,0.44,Europa
+Croacia,3993938,56594,Europa
+Dinamarca,5910913,43094,Europa
+Eslovaquia,5702832,49035,Europa
+Eslovenia,2119675,20273,Europa
+España,47519628,505990,Europa
+Estonia,1322769,45227,Europa
+Finlandia,5545475,338145,Europa
+Francia,64756584,551695,Europa
+Grecia,10341143,131957,Europa
+Hungría,10156979,93028,Europa
+Irlanda,5056935,70273,Europa
+Islandia,375318,103000,Europa
+Italia,58853482,301340,Europa
+Letonia,1810363,64589,Europa
+Liechtenstein,39584,160,Europa
+Lituania,2718358,65300,Europa
+Luxemburgo,654768,2586,Europa
+Macedonia del Norte,2085679,25713,Europa
+Malta,535064,316,Europa
+Moldavia,3435931,33851,Europa
+Mónaco,36297,2.02,Europa
+Montenegro,626102,13812,Europa
+Noruega,5474360,323802,Europa
+Países Bajos,17618291,41850,Europa
+Polonia,41026067,312679,Europa
+Portugal,10270865,92090,Europa
+Reino Unido,67736802,243610,Europa
+República Checa,10495295,78865,Europa
+Rumania,19892753,238391,Europa
+Rusia,144444359,17098246,Europa/Asia
+San Marino,33642,61,Europa
+Serbia,7149077,88361,Europa
+Suecia,10612086,450295,Europa
+Suiza,8796669,41284,Europa
+Ucrania,38000000,603500,Europa
+Afganistán,42239854,652230,Asia
+Arabia Saudita,36947025,2149690,Asia
+Armenia,2777970,29743,Asia
+Azerbaiyán,10412651,86600,Asia
+Bangladés,172954319,147570,Asia
+Baréin,1485509,765,Asia
+Birmania,54577997,676578,Asia
+Brunéi,452524,5765,Asia
+Bután,787424,38394,Asia
+Camboya,16944826,181035,Asia
+Catar,2716391,11586,Asia
+China,1425671352,9596961,Asia
+Corea del Norte,26160821,120538,Asia
+Corea del Sur,51784059,100210,Asia
+Emiratos Árabes Unidos,9516871,83600,Asia
+Filipinas,117337368,300000,Asia
+Georgia,3728282,69700,Asia
+India,1428627663,3287263,Asia
+Indonesia,277534122,1904569,Asia
+Irak,45504560,438317,Asia
+Irán,89172767,1648195,Asia
+Israel,9174520,20770,Asia
+Japón,123294513,377975,Asia
+Jordania,11337052,89342,Asia
+Kazajistán,19606633,2724900,Asia
+Kirguistán,6735347,199951,Asia
+Kuwait,4310108,17818,Asia
+Laos,7633779,236800,Asia
+Líbano,5353930,10452,Asia
+Malasia,34308525,330803,Asia
+Maldivas,523787,298,Asia
+Mongolia,3447157,1564116,Asia
+Nepal,30896590,147181,Asia
+Omán,4644384,309500,Asia
+Pakistán,240485658,796095,Asia
+Singapur,6014723,697,Asia
+Siria,23227014,185180,Asia
+Sri Lanka,21893579,65610,Asia
+Tailandia,71801279,513120,Asia
+Tayikistán,10143543,143100,Asia
+Timor Oriental,1360587,14874,Asia
+Turkmenistán,6516100,488100,Asia
+Turquía,85816199,783562,Asia/Europa
+Uzbekistán,35163944,447400,Asia
+Vietnam,98858950,331212,Asia
+Yemen,34449825,527968,Asia
+Nigeria,223804632,923768,África
+Etiopía,126527060,1104300,África
+Egipto,112716598,1002450,África
+República Democrática del Congo,102262808,2344858,África
+Sudáfrica,60414495,1221037,África
+Tanzania,67438106,945087,África
+Kenia,55100586,580367,África
+Sudán,48109006,1861484,África
+Argelia,45606480,2381741,África
+Uganda,48582334,241551,África
+Marruecos,37840044,446550,África
+Ghana,34121985,238533,África
+Mozambique,33897354,801590,África
+Madagascar,30325732,587041,África
+Angola,36684202,1246700,África
