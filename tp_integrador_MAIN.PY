@@ -3,8 +3,8 @@ import FUNCIONES_integrador as funcion
 #tp integrador 
 def main(): #definimos una funcion main, para ejecutar el script principal 
      paises = funcion.cargar_paises("paises.csv")#cargamos la informacion del csv 
-     if not paises: #hacemos una validacion en caso del que le arhivo no este bin
-         return #en caso de estar vacio el archivo, finaliza el programa antes del while 
+     #if not paises: #hacemos una validacion en caso del que le arhivo no este bin
+         #return #en caso de estar vacio el archivo, finaliza el programa antes del while 
      bandera:bool=True #creamos una variable de bool para iniciar un bucle while true
      while bandera:
          funcion.Menu_opciones() #llamamos a la funcion que muestra el menu

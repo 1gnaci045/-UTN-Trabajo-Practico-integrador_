@@ -16,7 +16,7 @@ def cargar_paises(archivo_csv): #creo una funcion la cual leera la informacion d
     try:
         with open (archivo_csv, mode= 'r', encoding= 'utf-8') as archivo: #use with open para abrir el archivo, y cerrarlo automaticamente
             # use encoding= utf-8 para leer los caracteres especiales dentro del csv
-            lector_csv = csv.DictReader(archivo_csv,delimiter=';') #use csv.dictreader que lee el archivo y usa cada fila como diccionarios 
+            lector_csv = csv.DictReader(archivo) #use csv.dictreader que lee el archivo y usa cada fila como diccionarios 
             for fila in lector_csv:
                 try: #use try/except por si algun dato dentro del csv, no esta bien o no se puede convertir, no falle el programa
                     pais:dict={"nombre": fila["nombre"], #convertimos los valores de estadisticas a int, float
